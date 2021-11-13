@@ -57,9 +57,12 @@ export default {
             }
           }            
       });
+       
       if(result.data != null){
         alert('data saved successfully... :)');
       }
+      
+     window.location.href = '/';
     },
   },
 };

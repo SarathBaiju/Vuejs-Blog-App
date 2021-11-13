@@ -1,3 +1,15 @@
+# presentation steps
+  1. importance of vue cdn 
+  2. creating a vue application using vue-cli
+  3. importance of webpack in vuejs
+  4. walk through of a simple vue application (Blog app)
+  5. how to integrate an vue js application in .net core application???
+  (This will cover only when get enough time)
+
+
+# to create vue webpack application use CMD
+   vue init webpack-simple <app-name>
+
 # blogapp
 
 > A Vue.js project
