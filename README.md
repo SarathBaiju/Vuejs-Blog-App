@@ -8,7 +8,7 @@
 
 
 # to create vue webpack application use CMD
-   vue init webpack-simple <app-name>
+   vue init webpack-simple <<app-name>>
 
 # blogapp
 
